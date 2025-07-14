@@ -75,7 +75,7 @@ To explore the analyses in this repository:
 
 ## Data
 
-The data used in the **Protein Variant Property Analysis** notebook is **synthetically generated**, partially using a generative AI model to simulate hypothetical protein variants and their predicted mutational effects, and further enriched with simulated experimental measurements. This allows for a self-contained demonstration of the analytical pipeline.
+Please be aware that the data used in the **Protein Variant Property Analysis** notebook is **synthetically generated**, partially using a generative AI model to simulate hypothetical protein variants and their predicted mutational effects, and further enriched with simulated experimental measurements.
 
 ## Technologies Used
 
