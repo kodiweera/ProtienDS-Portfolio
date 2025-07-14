@@ -1,0 +1,1882 @@
+[
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.15
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.32
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.48
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.05
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.39
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.41
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.07
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.18
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.25
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.22
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.28
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.41
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.11
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.33
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.45
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.03
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.21
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.29
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.08
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.18
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.35
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.44
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.09
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.36
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.43
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.05
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.19
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.27
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.03
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.12
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.38
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.46
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.31
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.47
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.23
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.23
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.19
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.40
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.08
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.17
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.26
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.16
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.33
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.47
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.38
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.42
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.06
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.20
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.28
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.13
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.37
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.45
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.08
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.32
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.46
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.02
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.22
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.24
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.17
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.30
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.50
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.03
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.41
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.39
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.09
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.16
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.30
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.14
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.36
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.43
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.10
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.34
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.44
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.04
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.20
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.26
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.05
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.11
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.39
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.42
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.12
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.30
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.48
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.00
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.24
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.22
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.09
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.20
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.29
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.42
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.38
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.15
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.31
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": 0.00
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.41
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.13
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.29
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.49
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.25
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.21
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.10
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.14
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.34
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.46
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.35
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.43
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.03
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.21
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.27
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.18
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.40
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.08
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.17
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.26
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.16
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.33
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.47
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.38
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.42
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.06
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.20
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.28
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.13
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.37
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.45
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.08
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.31
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.47
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.23
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.23
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.19
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.42
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.38
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.15
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.30
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.41
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.13
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.29
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.49
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.25
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.21
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.10
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.14
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.34
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.46
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.35
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.43
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.03
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.21
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.27
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.18
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.40
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.08
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.17
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.26
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.16
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.33
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.47
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.38
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.42
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.06
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.20
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.28
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.13
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.37
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.45
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.08
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.31
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.47
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.23
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.23
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.19
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.42
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.38
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.15
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.30
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.41
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.13
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.29
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.49
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.25
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.21
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.10
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.14
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.34
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.46
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.35
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.43
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.03
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.21
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.27
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.18
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.40
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.08
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.17
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.26
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutation_Count": 0.16
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.33
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.47
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.38
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.42
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.06
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.20
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.28
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.13
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.37
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.45
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.08
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.31
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.47
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.23
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.23
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.19
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.42
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.38
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.15
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.30
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.41
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.13
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.29
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.49
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.25
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.21
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.10
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.14
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.34
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.46
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.35
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.43
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.03
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.21
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.27
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.18
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.40
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.08
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.17
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.26
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.16
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.33
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.47
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.38
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.42
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.06
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.20
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.28
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.13
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.37
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.45
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.08
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.31
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.47
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.23
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.23
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.19
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.42
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.38
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.15
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.30
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.41
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.13
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.29
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.49
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.25
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.21
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.10
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.14
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.34
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.46
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.35
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.43
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.03
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.21
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.27
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutation_Count": 0.18
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.40
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.08
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.17
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.26
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutation_Count": 0.16
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.33
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.47
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.38
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.42
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.06
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.20
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.28
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.13
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.37
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.45
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.08
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.31
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.47
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.23
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.23
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutation_Count": 0.19
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.42
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.38
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.15
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.30
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutation_Count": 0.10
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.41
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.13
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.29
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.49
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": -0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.25
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.21
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.10
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutation_Count": 0.14
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.34
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.46
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.35
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.43
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.03
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.21
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.27
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutation_Count": 0.18
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.40
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.40
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.08
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.17
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.26
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.16
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.33
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.47
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.06
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.38
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.42
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.06
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.20
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.28
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.04
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.13
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.37
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.45
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.08
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.31
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.47
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.01
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.23
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.23
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.07
+  },
+  {
+    "Mutation_Count": 4,
+    "Mutational_Effect_Score": 0.19
+  },
+  {
+    "Mutation_Count": 8,
+    "Mutational_Effect_Score": -0.31
+  },
+  {
+    "Mutation_Count": 2,
+    "Mutational_Effect_Score": 0.49
+  },
+  {
+    "Mutation_Count": 6,
+    "Mutational_Effect_Score": -0.02
+  },
+  {
+    "Mutation_Count": 1,
+    "Mutational_Effect_Score": 0.42
+  },
+  {
+    "Mutation_Count": 9,
+    "Mutational_Effect_Score": -0.38
+  },
+  {
+    "Mutation_Count": 5,
+    "Mutational_Effect_Score": 0.10
+  },
+  {
+    "Mutation_Count": 7,
+    "Mutational_Effect_Score": -0.15
+  },
+  {
+    "Mutation_Count": 3,
+    "Mutational_Effect_Score": 0.30
+  },
+  {
+    "Mutation_Count": 10,
+    "Mutational_Effect_Score": -0.01
+  }
+]
