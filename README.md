@@ -36,6 +36,7 @@ This repository features interactive analyses designed to illustrate how data sc
  
   **Example: Green Fluorescent Protein (PDB ID: 1GFP)**
   ![Green Fluorescent Protein (GFP) 3D Structure](assets/gfp_structure.png)
+  
   *A static rendering of the 3D structure of Green Fluorescent Protein (PDB ID: 1GFP), visualized using NGLView.*
 
 ## How to Use This Repository
