@@ -1,4 +1,4 @@
-# ProtienDS-Portfolio
+# ProteinDS-Portfolio
 
 ## Proteins Research Analysis and Visualization
 This repository contains Jupyter notebooks and data that showcases various analyses and visualizations related to protein research. It serves as a portfolio demonstrating skills in data science, statistical modeling, and biological data interpretation, particularly in the context of protein engineering.
