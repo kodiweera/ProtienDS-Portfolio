@@ -46,8 +46,8 @@ To explore the analyses in this repository:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [Your GitHub Repository URL Here]
-    cd [your-repo-name]
+    git clone https://github.com/kodiweera/ProtienDS-Portfolio.git
+    cd ProtienDS-Portfolio
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
